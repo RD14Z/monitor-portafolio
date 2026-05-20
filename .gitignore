@@ -1,0 +1,30 @@
+# Credenciales de base de datos y llaves secretas
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Descargas de reportes temporales de la SEC
+sec-edgar-filings/
+Reporte_*.html
+
+# Respaldos y archivos pesados
+*.sql
+*.zip
+
+# Archivos temporales o de prueba locales
+test.pdf
+test_db.py
+create_table.py
+test_transaction.py
+check_db_insert.py
+check_constraints.py
+check_links.py
+
+# Entornos virtuales locales
+.venv/
+venv/
+env/

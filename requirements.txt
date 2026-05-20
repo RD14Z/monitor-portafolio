@@ -1,0 +1,5 @@
+oracledb
+pandas
+yfinance
+streamlit
+python-dotenv
