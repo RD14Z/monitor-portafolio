@@ -4,3 +4,8 @@ yfinance
 streamlit
 python-dotenv
 plotly
+get_portfolio_data
+register_transaction
+get_current_prices
+get_recent_earnings
+download_sec_report
