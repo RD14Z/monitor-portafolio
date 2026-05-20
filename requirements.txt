@@ -4,4 +4,4 @@ yfinance
 streamlit
 python-dotenv
 plotly
-
+sec-edgar-downloader
